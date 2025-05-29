@@ -1,0 +1,7 @@
+data/
+.venv/
+
+*.wav
+*.mp3
+*.flac
+libdevice.10.bc
